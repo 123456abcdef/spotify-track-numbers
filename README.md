@@ -1,3 +1,5 @@
+> 27/08 Spotify web player implemented their own track numbers
+
 # spotify-track-numbers
 
 Userscript to add track numbers to Spotify's track list.
